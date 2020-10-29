@@ -15,9 +15,9 @@ https://attacker.com/target.com
 https://target.com.attacker.com
 ```
 ### Blacklist filter bypasses (decimal, hex, octal)
-Inspired from [EdOverflow's blogpost on exploiting Ruby's Resolv](https://edoverflow.com/2017/ruby-resolv-bug/)
-http://0177.1:22/
-http://0x7f.1:22/
+Inspired from [EdOverflow's blogpost on exploiting Ruby's Resolv](https://edoverflow.com/2017/ruby-resolv-bug/)  
+http://0177.1:22/  
+http://0x7f.1:22/  
 http://127.000.001:22/
 See more at [PayloadsAllTheThings SSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery)
 
