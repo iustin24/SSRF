@@ -30,6 +30,6 @@ Message:
 .");?>
 ```
 ### Exploiting incosistencies in url parsers
-Orange Tsai's blackhat presentation explains this perfectly.
-[PDF slides](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
-[Youtube presentation](https://www.youtube.com/watch?v=R9pJ2YCXoJQ&ab_channel=BlackHat)
+Orange Tsai's blackhat presentation explains this perfectly. ( 
+[PDF slides](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) + 
+[Youtube presentation](https://www.youtube.com/watch?v=R9pJ2YCXoJQ&ab_channel=BlackHat) )
