@@ -1,6 +1,6 @@
 # SSRF
 ## SSRF Methodology Flowchart
-Since I've seen so many people ask what to do once they get a request back to their collaborator instance, I created this flowchart to present what I usually do to test and escalate SSRFs. 
+Since I've seen so many people ask what to do once they get a request back to their collaborator instance, I created this flowchart to present what I usually do to test and escalate SSRFs. !Disclaimer! (These are only the techiques I test for. There are a few other ways of bypassing ssrf filters, which are not included in the flowchart.)
 <img src=https://github.com/iustin24/SSRF/blob/main/iustinSSRFflowchart.png>
 ## False Positives:
 DNS queries only are rarely exploitable, and should never be reported without any additional impact.
