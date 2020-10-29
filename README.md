@@ -49,9 +49,10 @@ Inspired from [d0nut's Piercing the veal](https://medium.com/@d0nut/piercing-the
 ?>
 ```
 Payload taken from [PayloadsAllTheThings SSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery)
-### Exploiting incosistencies in url parsers
+### Exploiting incosistencies in url parsers + DNS Rebdinding
 Orange Tsai's blackhat presentation explains this perfectly. ( 
 [PDF slides](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) + 
-[Youtube presentation](https://www.youtube.com/watch?v=R9pJ2YCXoJQ&ab_channel=BlackHat) )
+[Youtube presentation](https://www.youtube.com/watch?v=R9pJ2YCXoJQ&ab_channel=BlackHat) )  
+Liveoverflow's [PHP include and bypass SSRF protection with two DNS A records ](https://www.youtube.com/watch?v=PKbxK2JH23Y&ab_channel=LiveOverflo)  discusses url parsing incosistencies, and also touches on DNS Rebinding.
 ### More SSRF Resources
 [Jdonsec's list of SSRF Resources](https://github.com/jdonsec/AllThingsSSRF)
