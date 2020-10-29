@@ -1,6 +1,6 @@
 # SSRF
 ## SSRF Methodology Flowchart
-This is the thought proccess I use when testing for ssrf. Feel free to use it as well, and if you have any ideas to add let me know!
+Since I've seen so many people ask what to do once they get a request back to their collaborator instance, I created this flowchart to present what I usually do to test and escalate SSRFs. 
 <img src=https://github.com/iustin24/SSRF/blob/main/iustinSSRF%20(2).png>
 ## Sources:
 Some common whitelist filter bypasses I test for:
